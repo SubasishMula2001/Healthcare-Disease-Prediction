@@ -104,8 +104,6 @@ A full-stack machine learning web application that predicts **health insurance p
 
 ## 📷 Screenshots
 
-> You can add real screenshots in the `/screenshots` folder and link here.
-
 | Input Form | Prediction Output |
 |------------|-------------------|
 | ![form](screenshots/form.png) | ![output](screenshots/output.png) |
@@ -159,10 +157,6 @@ scikit-learn==1.3.0
 xgboost==1.7.4
 pandas
 joblib
-```
-
-> ⚠️ Ensure your model `.joblib` files and scaler files are compatible with the library versions used.
-
 ---
 
 ## 🙋‍♂️ Author
