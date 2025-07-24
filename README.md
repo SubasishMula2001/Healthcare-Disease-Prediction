@@ -2,7 +2,7 @@
 
 A full-stack machine learning web application that predicts **health insurance premium** based on user inputs like age, income, medical history, BMI, smoking status, and more.
 
-> This project was built as part of the Codebasics Machine Learning course with enhancements like:
+> course with enhancements like:
 > - Full frontend UI (HTML/CSS/JS)
 > - Flask REST API backend
 > - Fully deployed on Render and GitHub Pages
